@@ -1,2 +1,2 @@
-# chrmicrate
-Test crate
+# chrmi
+Minimal test crate for Rust.
